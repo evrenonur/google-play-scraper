@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/evrenonur/google-play-scraper)](https://packagist.org/packages/evrenonur/google-play-scraper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PHP Version](https://img.shields.io/packagist/php-v/evrenonur/google-play-scraper)](https://packagist.org/packages/evrenonur/google-play-scraper)
-[![Tests](https://github.com/evrenonur/google-play-scraper/actions/workflows/tests.yml/badge.svg)](https://github.com/evrenonur/google-play-scraper/actions/workflows/tests.yml)
+[![Tests](https://github.com/evrenonur/google-play-scraper/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/evrenonur/google-play-scraper/actions/workflows/tests.yml)
 
 ## Google Play Scraper: Easily Scrape Google Play Store Data
 
