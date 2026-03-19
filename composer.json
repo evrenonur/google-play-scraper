@@ -1,0 +1,32 @@
+{
+    "name": "evrenonur/google-play-scraper",
+    "description": "PHP library to scrape application data from the Google Play Store with proxy support",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.2",
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/dom-crawler": "^7.2",
+        "symfony/css-selector": "^7.2",
+        "psr/log": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "GooglePlayScraper\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GooglePlayScraper\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "test-unit": "phpunit --testsuite=unit"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
